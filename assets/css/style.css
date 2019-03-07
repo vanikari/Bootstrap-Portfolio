@@ -1,0 +1,70 @@
+body {
+    background-image: url("assets/images/concrete-texture.gif");
+    width: 960px;
+}
+
+/* Nav Bar - Header */
+.header{
+    background-color:#ffffff;
+    padding: 0px;
+    border-bottom:  #cccccc solid;
+}
+ 
+/* Nav Bar - Left */
+.heading {
+    font-weight: bold;
+    font-family: 'Georgia', Times, Times New Roman, serif; 
+    background-color: #4aaaa5;
+    font-size: 22px; 
+    color:  #ffffff;
+    padding-top: 12px; 
+    padding-bottom: 12px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding: 20px;
+    margin: 0px; 
+    margin-right: 600px;
+    margin-left: 80px
+}
+
+/* Nav Bar - Right */
+.navright {
+    color: #cccccc;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+/* Nav Bar Linking */
+.navi {
+    text-decoration: none;
+    color: #cccccc;
+}
+
+/* Link Hovering */
+
+.navi:hover{
+    color: #4aaaa5
+}
+
+/* Nav Links Positioning */
+#left {
+    padding-left: 10px;
+
+  }
+  
+#middle {
+    padding-left: 10px;
+    border-left: 1px solid #dddddd;
+  }
+  
+#right {
+
+    padding-left: 10px;
+    border-left: 1px solid #dddddd;
+
+  }
